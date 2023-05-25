@@ -12,4 +12,4 @@ A project related to our University Embedded-Systems Course. The system measures
 - Power Supply
 
 # Demo
-!image()
+!image(image.PNG)
