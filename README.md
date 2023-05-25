@@ -16,4 +16,4 @@ A project related to our University Embedded-Systems Course. The system measures
 
 
 # Collaborators
-[<a href="https://github.com/MariamAmy">Mariam Ayman</a> -  <a href="https://github.com/toqaalaa20"Toqa Alaa</a>]
+[<a href="https://github.com/MariamAmy">Mariam Ayman</a> - <a href="https://github.com/toqaalaa20">Toqa Alaa</a>]
